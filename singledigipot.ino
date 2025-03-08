@@ -1,3 +1,16 @@
+//////////////////////////////////////////////////////////////////
+// Reinaldo Torres  
+// Email: reyco2000@gmail.com  
+// Released as open source  
+//  
+// YouTube: https://www.youtube.com/@ChipShift  
+// GitHub:  https://github.com/reyco2000  
+//  
+// Description:  
+// Sample code to connect a TPL0501 digital potentiometer to an ESP32S3
+//  
+// 3-8-2025
+//////////////////////////////////////////////////////////////////
 #include <SPI.h>
 
 #define CS_PIN 10  // Chip Select pin for TPL0501
